@@ -13,4 +13,5 @@ scikit-learn==1.0.2
 scipy==1.7.3
 seaborn==0.11.2
 shap==0.40.0
+jinja2==3.0.3
 
